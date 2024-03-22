@@ -7,7 +7,7 @@
     <title>Login</title>
 </head>
 <body>
-<form action="controller" method="post">
+<form action="auth" method="post">
     <label for="email">Email:</label>
     <input type="text" id="email" name="email" required><br><br>
     <label for="password">Password:</label>

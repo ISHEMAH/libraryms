@@ -1,5 +1,7 @@
 package com.example.jspapp;
 
+import com.example.jspapp.classes.Book;
+
 import javax.servlet.ServletException;
 
 import javax.servlet.annotation.WebServlet;

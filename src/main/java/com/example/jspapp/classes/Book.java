@@ -1,4 +1,4 @@
-package com.example.jspapp;
+package com.example.jspapp.classes;
 
 
 import java.util.Date;

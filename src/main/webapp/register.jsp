@@ -7,7 +7,7 @@
     <title>Register</title>
 </head>
 <body>
-<form action="controller" method="post">
+<form action="auth" method="post">
     <label for="firstName">First Name:</label>
     <input type="text" id="firstName" name="firstName" required><br><br>
     <label for="lastName">Last Name:</label>
